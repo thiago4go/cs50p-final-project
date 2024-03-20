@@ -22,7 +22,7 @@ The motivation behind this project is to provide a more nuanced understanding of
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/thiago4go/cs50p-final-project.git
    ```
 2. Install required Python packages:
    ```bash
